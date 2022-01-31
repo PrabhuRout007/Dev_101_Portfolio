@@ -1,0 +1,87 @@
+body
+{
+ background-color: #D0D3D4;
+}
+header
+{
+    display: flex;
+    justify-content: space-between;
+    margin : 2 rem;
+    margin-bottom: 1.5rem;
+}
+header>div>h1,h3
+{
+    font-style:italic ;
+    font-size: 1.5rem;
+    margin-left: 40rem;
+    color: cadetblue;
+    font-weight: bolder;
+}
+header>div>img{
+    width: 10rem;
+    border-radius: 50%;
+    margin-right: 30rem;
+    margin-bottom: 5rem;
+}
+
+hr
+{
+    border : dotted rgb(13, 14, 13) 6px;
+    border-bottom: none;
+    width: 30%;
+    margin-top: 100px auto;
+}
+
+.title
+{
+    font-size: 4rem;
+    text-align: center;
+    color: slategray;
+}
+
+section
+{
+    display : flex;
+    justify-content: space-evenly;
+    margin-bottom: 1.5rem;
+}
+section img{
+    border-radius: 50%;
+    width: 10rem;
+}
+
+.education
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: darkred
+}
+
+.Project_heading
+{
+    color: coral;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+}
+
+.p1
+{
+    display: flex;
+    color: darkorange;
+    font-size: 1.4rem;
+    justify-content: space-between;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 1.2rem;
+}
+
+
+footer
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer img{
+    border-radius: 50%;
+    width: 5rem;
+
+}
