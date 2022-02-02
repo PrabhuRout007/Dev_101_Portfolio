@@ -8,6 +8,7 @@ header
     justify-content: space-evenly;
     margin : 2 rem;
     margin-bottom: 1.5rem;
+    align-content: center;
 }
 header>div>h1,h3
 {
